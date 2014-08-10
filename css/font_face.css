@@ -1,0 +1,34 @@
+@font-face {
+  font-family: 'Garamond Premier Pro'; font-weight: 400;
+  src: url('../fonts/GaramondPremrPro.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Univers LT Std'; font-weight: 100;
+  src: url('../fonts/UniversLTStd-Light.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Univers LT Std'; font-weight: 400;
+  src: url('../fonts/UniversLTStd.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Univers LT Std'; font-weight: 700;
+  src: url('../fonts/UniversLTStd-Bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Univers LT Std'; font-style: italic;
+  src: url('../fonts/UniversLTStd-LightObl.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Univers LT Std Thin Ultra Condensed'; font-weight: 100;
+  src: url('../fonts/UniversLTStd-ThinUltraCn.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Univers LT Std Ultra Condensed'; font-weight: 400;
+  src: url('../fonts/UniversLTStd-UltraCn.otf') format('opentype');
+}
