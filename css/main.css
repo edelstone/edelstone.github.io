@@ -3,8 +3,8 @@
 *, *:before, *:after {-moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;}
 ::selection {background: #F0BBB7;}
 ::-moz-selection {background: #F0BBB7;}
-.wrapper {max-width: 44rem; margin: auto; font-family: 'Neuton', serif; padding: 2rem; padding-top: 1rem; font-size: 1.8rem; line-height: 2.2rem; font-weight: 400;}
-.intro {background: #7F2A4D; color: #FFFFFF; padding: 2.5rem 2rem; box-shadow: 0 .1rem #D9554C, 0 .2rem #CF4D6F, 0 .3rem #63474D, 0 .4rem #260C1A;}
+.wrapper {max-width: 44rem; margin: auto; font-family: 'Neuton', serif; padding: 2rem; padding-top: 1.5rem; font-size: 1.8rem; line-height: 2.2rem; font-weight: 400;}
+.intro {background: #7F2A4D; color: #FFFFFF; padding: 2.5rem 2rem; box-shadow: 0 .2rem #D9554C, 0 .4rem #CF4D6F, 0 .5rem #63474D, 0 0 #260C1A;}
 h1 {font-family: 'Montserrat', sans-serif; max-width: 40rem; margin: auto; font-size: 4rem;}
 img {border-radius: 0; max-width: 15rem; float: left; margin: .5rem 2rem 1rem 0;}
 .clearfix {clear: both;}
