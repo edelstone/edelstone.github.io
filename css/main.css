@@ -6,7 +6,7 @@ html {font-size: 62.5%;}
 ::-moz-selection {background: #f3ccc9;}
 .clearfix {clear: both;}
 .content {max-width: 74rem; margin: auto; font-family: 'Neuton', serif; padding: 3rem; padding-top: 2.5rem; font-size: 2.8rem; line-height: 3.6rem; font-weight: 400;}
-.headline {background: #7f2a4d; color: #ffffff; padding: 4rem 3rem; box-shadow: 0 0.3rem #d9554c, 0 0.7rem #cf4d6f, 0 0.8rem #63474d, 0 0 #260c1a;}
+.headline {background: #63474d; color: #ffffff; padding: 4rem 3rem; box-shadow: 0 0.4rem #d9554c, 0 0.7rem #cf4d6f, 0 0.8rem #7f2a4d, 0 0 #260c1a;}
 .headline h1 {font-family: 'Montserrat', sans-serif; max-width: 68.5rem; margin: auto; font-size: 6.4rem; line-height: 8rem; font-weight: 700;}
 .message figure {margin: 0; position: relative; float: left;}
 .message figcaption {display: none; font-family: 'Montserrat', sans-serif; font-weight: 400; sans-serif; position: absolute; font-size: 1rem; bottom: 1rem; left: 0.8rem;}
