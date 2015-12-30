@@ -21,7 +21,7 @@ html {font-size: 62.5%;}
 .breadcrumbs a {color: #595959;}
 .breadcrumbs i {padding: 0 1rem;}
 
-@media (max-width: 35.5rem) {
+@media (max-width: 35.5em) {
 html {font-size: 58.5%;}
 .content {padding-top: 2rem;}
 .choices a {display: block; width: 100%;}
