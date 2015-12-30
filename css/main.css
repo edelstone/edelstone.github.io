@@ -6,11 +6,11 @@ html {font-size: 62.5%;}
 ::-moz-selection {background: #f3ccc9;}
 .clearfix {clear: both;}
 .content {max-width: 74rem; margin: auto; font-family: 'Neuton', serif; padding: 3rem; padding-top: 2.5rem; font-size: 2.8rem; line-height: 3.6rem; font-weight: 400;}
-.headline {background: #4f383d; color: #ffffff; padding: 4rem 3rem; box-shadow: 0 0.5rem #d9554c, 0 0.7rem #7f2a4d, 0 0 #260c1a, 0 0 #63474d, 0 0 #cf4d6f;}
+.headline {background: #453135; color: #ffffff; padding: 4rem 3rem; box-shadow: 0 0.5rem #d9554c, 0 0.7rem #7f2a4d, 0 0 #260c1a, 0 0 #63474d, 0 0 #cf4d6f;}
 .headline h1 {font-family: 'Montserrat', sans-serif; max-width: 68.5rem; margin: auto; font-size: 6.4rem; line-height: 8rem; font-weight: 700;}
 .message figure {margin: 0; position: relative; float: left;}
 .message figcaption {display: none; font-family: 'Montserrat', sans-serif; font-weight: 400; sans-serif; position: absolute; font-size: 1rem; bottom: 1rem; left: 0.8rem;}
-.message img {border: 3px solid #4f383d; width: 24rem; margin: 0.8rem 3rem 1.5rem 0;}
+.message img {border: 3px solid #453135; width: 24rem; margin: 0.8rem 3rem 1.5rem 0;}
 .message a {transition: border 0.2s ease-in-out; color: #222222; border-bottom: 0.5rem solid #f3ccc9; text-decoration: none;}
 .message a:hover {border-bottom: 0.5rem solid #d9554c; color: #222222;}
 .choices ul {list-style: none; padding: 0;}
