@@ -11,7 +11,7 @@ html {font-size: 62.5%;}
 .message figure {margin: 0; position: relative; float: left;}
 .message figcaption {display: none; font-family: 'Montserrat', sans-serif; font-weight: 400; sans-serif; position: absolute; font-size: 1rem; bottom: 1rem; left: 0.8rem;}
 .message img {border-radius: 0; width: 24rem; margin: 0.8rem 3rem 1.5rem 0;}
-.message a {transition: all 0.2s ease-in-out; color: #222222; border-bottom: 0.5rem solid #f3ccc9; text-decoration: none;}
+.message a {transition: border 0.2s ease-in-out; color: #222222; border-bottom: 0.5rem solid #f3ccc9; text-decoration: none;}
 .message a:hover {border-bottom: 0.5rem solid #d9554c; color: #222222;}
 .choices ul {list-style: none; padding: 0;}
 .choices li {display: inline-block;}
