@@ -6,16 +6,16 @@ html {font-size: 62.5%;}
 ::-moz-selection {background: #f3ccc9;}
 .clearfix {clear: both;}
 .content {max-width: 74rem; margin: auto; font-family: 'Neuton', serif; padding: 3rem; padding-top: 2.5rem; font-size: 2.8rem; line-height: 3.6rem; font-weight: 400;}
-.headline {background: #7f2a4d; color: #ffffff; padding: 4rem 3rem; box-shadow: 0 .3rem #d9554c, 0 .7rem #cf4d6f, 0 .8rem #63474d, 0 0 #260c1a;}
+.headline {background: #7f2a4d; color: #ffffff; padding: 4rem 3rem; box-shadow: 0 .3rem #d9554c, 0.7rem #cf4d6f, 0 0.8rem #63474d, 0 0 #260c1a;}
 .headline h1 {font-family: 'Montserrat', sans-serif; max-width: 68.5rem; margin: auto; font-size: 6.4rem; line-height: 8rem;}
-.message img {border-radius: 0; max-width: 24rem; float: left; margin: .8rem 3rem 1.5rem 0;}
-.message a {transition: all .2s ease-in-out; color: #222222; border-bottom: .5rem solid #f3ccc9; text-decoration: none;}
-.message a:hover {border-bottom: .5rem solid #d9554c; color: #222222;}
+.message img {border-radius: 0; max-width: 24rem; float: left; margin: 0.8rem 3rem 1.5rem 0;}
+.message a {transition: all 0.2s ease-in-out; color: #222222; border-bottom: 0.5rem solid #f3ccc9; text-decoration: none;}
+.message a:hover {border-bottom: 0.5rem solid #d9554c; color: #222222;}
 .choices ul {list-style: none; padding: 0;}
 .choices li {display: inline-block;}
-.button {position: relative; text-decoration: none; margin: 0 1.5rem 1.5rem 0; padding: 1.5rem 2rem; float: left; background: #efeded; color: #222222; border-bottom: .5rem solid #d7d5d5; box-shadow: 0rem 0.1rem 0.2rem -0.1rem #222222;}
-.button:hover {background: #7f2a4d; color: #ffffff; border-bottom: .5rem solid #581d35;}
-.button:active {background: #7f2a4d; color: #ffffff; border: none; box-shadow: none;}
+.button {position: relative; text-decoration: none; margin: 0 1.5rem 1.5rem 0; padding: 1.5rem 2rem; float: left; background: #efeded; color: #222222; box-shadow: 0 0.4rem #d7d5d5, 0 0.7rem 0.3rem -0.3rem #222222;}
+.button:hover {background: #7f2a4d; color: #ffffff; box-shadow: 0 0.4rem #581d35, 0 0.7rem 0.3rem -0.3rem #222222;}
+.button:active {background: #7f2a4d; color: #ffffff; top: 0.4rem; box-shadow: none;}
 .button i {margin-right: 1.8rem;}
 .breadcrumbs {font-family: 'Montserrat', sans-serif; font-weight: 400; font-size: 1.4rem; max-width: 68rem; margin: auto; color: #595959; padding-bottom: 2rem;}
 .breadcrumbs a {color: #595959;}
@@ -28,5 +28,5 @@ html {font-size: 58.5%;}
 .choices li {display: block;}
 .headline {padding: 2rem 3rem 1.8rem 3rem;}
 .headline h1 {font-size: 4.8rem;}
-.message img {float: none; max-width: 100%; margin: 2rem 2rem 0rem 0;}
+.message img {float: none; max-width: 100%; margin: 2rem 2rem 0 0;}
 }
