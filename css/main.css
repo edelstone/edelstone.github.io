@@ -8,7 +8,9 @@ html {font-size: 62.5%;}
 .content {max-width: 74rem; margin: auto; font-family: 'Neuton', serif; padding: 3rem; padding-top: 2.5rem; font-size: 2.8rem; line-height: 3.6rem; font-weight: 400;}
 .headline {background: #7f2a4d; color: #ffffff; padding: 4rem 3rem; box-shadow: 0 0.3rem #d9554c, 0 0.7rem #cf4d6f, 0 0.8rem #63474d, 0 0 #260c1a;}
 .headline h1 {font-family: 'Montserrat', sans-serif; max-width: 68.5rem; margin: auto; font-size: 6.4rem; line-height: 8rem;}
-.message img {border-radius: 0; max-width: 24rem; float: left; margin: 0.8rem 3rem 1.5rem 0;}
+.message figure {margin: 0; position: relative; float: left;}
+.message figcaption {font-family: 'Montserrat', sans-serif; font-weight: 400; sans-serif; position: absolute; font-size: 1rem; bottom: 1rem; left: 0.8rem;}
+.message img {border-radius: 0; max-width: 24rem; margin: 0.8rem 3rem 1.5rem 0;}
 .message a {transition: all 0.2s ease-in-out; color: #222222; border-bottom: 0.5rem solid #f3ccc9; text-decoration: none;}
 .message a:hover {border-bottom: 0.5rem solid #d9554c; color: #222222;}
 .choices ul {list-style: none; padding: 0;}
@@ -31,5 +33,7 @@ html {font-size: 58.5%;}
 .choices a {display: block; width: 100%; margin-bottom: 2rem;}
 .headline {padding: 2rem 3rem 1.8rem 3rem;}
 .headline h1 {font-size: 4.8rem;}
-.message img {float: none; max-width: 100%; margin: 2rem 2rem 0 0;}
+.message figure {float: none;}
+.message figcaption {bottom: 0; left: 1rem;}
+.message img {max-width: 100%; margin: 2rem 0 0 0;}
 }
