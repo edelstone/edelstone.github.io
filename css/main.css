@@ -15,7 +15,7 @@ html {font-size: 62.5%;}
 .message a:hover {border-bottom: 0.5rem solid #d9554c; color: #222222;}
 .choices ul {list-style: none; padding: 0;}
 .choices li {display: inline-block;}
-.button {position: relative; text-decoration: none; margin: 0 1.5rem 1.8rem 0; padding: 1.5rem 2rem; float: left; background: #efeded; color: #222222; box-shadow: 0 0.4rem #d7d5d5, 0 0.6rem 0.2rem -0.2rem #222222;}
+.button {position: relative; text-decoration: none; margin: 0 1.5rem 1.8rem 0; padding: 1.2rem 2rem; float: left; background: #efeded; color: #222222; box-shadow: 0 0.4rem #d7d5d5, 0 0.6rem 0.2rem -0.2rem #222222;}
 .button:hover {background: #d9554c; color: #ffffff; box-shadow: 0 0.4rem #973b35, 0 0.6rem 0.2rem -0.2rem #222222;}
 .button:active {background: #c34c44; color: #ffffff; top: 0.4rem; box-shadow: none;}
 .button i {margin-right: 1.8rem;}
