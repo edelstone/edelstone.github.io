@@ -10,7 +10,7 @@ html {font-size: 62.5%;}
 .headline h1 {font-family: 'Montserrat', sans-serif; max-width: 68.5rem; margin: auto; font-size: 6.4rem; line-height: 8rem;}
 .message figure {margin: 0; position: relative; float: left;}
 .message figcaption {font-family: 'Montserrat', sans-serif; font-weight: 400; sans-serif; position: absolute; font-size: 1rem; bottom: 1rem; left: 0.8rem;}
-.message img {border-radius: 0; max-width: 24rem; margin: 0.8rem 3rem 1.5rem 0;}
+.message img {border-radius: 0; width: 24rem; margin: 0.8rem 3rem 1.5rem 0;}
 .message a {transition: all 0.2s ease-in-out; color: #222222; border-bottom: 0.5rem solid #f3ccc9; text-decoration: none;}
 .message a:hover {border-bottom: 0.5rem solid #d9554c; color: #222222;}
 .choices ul {list-style: none; padding: 0;}
@@ -35,5 +35,5 @@ html {font-size: 58.5%;}
 .headline h1 {font-size: 4.8rem;}
 .message figure {float: none;}
 .message figcaption {bottom: 0; left: 1rem;}
-.message img {max-width: 100%; margin: 2rem 0 0 0;}
+.message img {width: 100%; margin: 2rem 0 0 0;}
 }
