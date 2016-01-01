@@ -7,10 +7,10 @@ html {font-size: 62.5%;}
 .clearfix {clear: both;}
 .content {max-width: 74rem; margin: auto; font-family: 'Neuton', serif; padding: 3rem; padding-top: 2.5rem; font-size: 2.8rem; line-height: 3.6rem; font-weight: 400;}
 .headline {background: #453135; color: #ffffff; padding: 4rem 3rem; box-shadow: 0 0.5rem #d9554c, 0 0.7rem #7f2a4d, 0 0 #260c1a, 0 0 #63474d, 0 0 #cf4d6f;}
-.headline h1 {font-family: 'Montserrat', sans-serif; max-width: 68.5rem; margin: auto; font-size: 6.4rem; line-height: 8rem; font-weight: 700;}
+.headline h1 {font-family: 'Montserrat', sans-serif; max-width: 68.5rem; margin: auto; font-size: 6.4rem; line-height: 8rem; font-weight: 700; text-shadow: 4px 4px #260c1a;}
 .message figure {margin: 0; position: relative; float: left;}
 .message figcaption {display: none; font-family: 'Montserrat', sans-serif; font-weight: 400; sans-serif; position: absolute; font-size: 1rem; bottom: 1rem; left: 0.8rem;}
-.message img {border: 3px solid #453135; width: 24rem; margin: 0.8rem 3rem 1.5rem 0;}
+.message img {border: 3px solid #453135; width: 24rem; height: 24rem; margin: 0.8rem 3rem 1.5rem 0;}
 .message a {transition: border 0.2s ease-in-out; color: #222222; border-bottom: 0.5rem solid #f3ccc9; text-decoration: none;}
 .message a:hover {border-bottom: 0.5rem solid #d9554c; color: #222222;}
 .choices ul {list-style: none; padding: 0;}
@@ -26,14 +26,41 @@ html {font-size: 62.5%;}
 .contact-info li {margin-bottom: 1.5rem;}
 .contact-info i {width: 7rem; text-align: center; vertical-align: middle; margin-left: -2rem;}
 
+/* Navigation */
+.container {position: relative; width: 100vw; left: calc(-50vw + 50%);}
+.pure-toggle-label[data-toggle-label='top'] {right: -2rem; left: auto; top: 4.7rem;}
+.pure-toggle-label {border: none; position: absolute;}
+.pure-toggle-label .pure-toggle-icon, .pure-toggle-label .pure-toggle-icon:before, .pure-toggle-label .pure-toggle-icon:after {background: #ffffff; border-radius: 1rem; width: 3.6rem; height: 5px; -webkit-transition: all 300ms ease-in-out; transition: all 300ms ease-in-out;}
+.pure-toggle-label:hover .pure-toggle-icon, .pure-toggle-label:hover .pure-toggle-icon:before, .pure-toggle-label:hover .pure-toggle-icon:after {background-color: #ffffff;}
+.pure-toggle-label .pure-toggle-icon:before {transform: translate3d(-50%, -16px, 0); -webkit-transform: translate3d(-50%, -16px, 0);}
+.pure-toggle-label .pure-toggle-icon:after {transform: translate3d(-50%, 10px, 0); -webkit-transform: translate3d(-50%, 10px, 0);}
+.pure-container {max-width: 74rem; margin: auto;}
+.pure-pusher {overflow-y: visible;}
+.pure-pusher-container {overflow: visible;}
+.pure-overlay {position: relative; background-color: rgba(0, 0, 0, 0);}
+.pure-drawer {background-color: #260c1a; background-color: rgba(38, 12, 26, 0.96);}
+[data-effect='pure-effect-slide'] .pure-drawer {-webkit-transition-duration: 300ms; transition-duration: 300ms;}
+[data-effect='pure-effect-slide'] .pure-overlay {-webkit-transition-duration: 300ms; transition-duration: 300ms; -webkit-transition-delay: 100ms; transition-delay: 100ms;}
+@media (min-width: 35.5em) {
+.pure-drawer[data-position='top'] {height: 160px;}
+.pure-toggle[data-toggle='top']:checked ~ .pure-overlay[data-overlay='top'] {top: 160px;}
+.pure-drawer[data-position='top'] {position: absolute; width: 100vw; left: calc(-50vw + 50%);}
+}
+
+/* Mobile Styles */
 @media (max-width: 35.5em) {
 html {font-size: 58.5%;}
-.content {padding-top: 2rem;}
+.content {padding-top: 1.8rem;}
 .choices li {display: block; overflow: auto;}
-.choices a {display: block; width: 100%; margin-bottom: 2rem;}
+.choices a {display: block; width: 100%; margin-bottom: 2.2rem;}
 .headline {padding: 2rem 3rem 1.8rem 3rem;}
 .headline h1 {font-size: 4.8rem;}
 .message figure {float: none;}
 .message figcaption {bottom: 0; left: 1rem;}
-.message img {width: 100%; margin: 2rem 0 0 0;}
+.message img {width: 100%; height: auto; margin: 2rem 0 0 0;}
+.pure-toggle-label {width: 45px; height: 45px;}
+.pure-toggle-label .pure-toggle-icon, .pure-toggle-label .pure-toggle-icon:before, .pure-toggle-label .pure-toggle-icon:after {width: 3rem; height: 4px;}
+.pure-toggle-label .pure-toggle-icon:before {transform: translate3d(-50%, -12px, 0); -webkit-transform: translate3d(-50%, -12px, 0);}
+.pure-toggle-label .pure-toggle-icon:after {transform: translate3d(-50%, 8px, 0); -webkit-transform: translate3d(-50%, 8px, 0);}
+.pure-toggle-label[data-toggle-label='top'] {top: 3.7rem; right: 0;}
 }
