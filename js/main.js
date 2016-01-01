@@ -2,9 +2,3 @@
 window.addEventListener('load', function() {
 	FastClick.attach(document.body);
 }, false);
-
-
-// Navigation drawer
-$(document).ready(function() {
-  $('.drawer').drawer();
-});
