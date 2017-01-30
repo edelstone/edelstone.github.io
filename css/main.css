@@ -1,0 +1,153 @@
+/* General */
+*, *:before, *:after {box-sizing: border-box;}
+::selection {background: #f4ccc9;}
+::-moz-selection {background: #f4ccc9;}
+html {font-size: 62.5%; line-height: 1.4; font-family: 'Neuton', serif; font-weight: normal; height: 100%; background: #220b17;}
+body {min-height: 100%; display: flex; flex-direction: column; background: #fff;}
+img {max-width: 100%;}
+h1, h2, h3, h4, .signature, .intro, .footer, .button, .button-light, .tags, .caption, .project-image {font-family: 'Montserrat', sans-serif; font-weight: normal;}
+.full-width {width: 100%;}
+.constrain {max-width: 75rem; margin: auto; padding-left: 2.5rem; padding-right: 2.5rem;}
+.heavy {font-weight: bold;}
+.signature {font-size: 1.4rem; text-transform: uppercase; text-align: right; letter-spacing: 1px;}
+.signature a {background: #220b17; color: #d7d5d5; text-decoration: none; display: block; padding: 0.9rem 0; transition: all 0.2s ease-in-out; box-shadow: 0 -1.8rem #220b17 inset; border-bottom: 1px solid #000;}
+.signature a:hover {background: #7f2a4d; color: #fff; box-shadow: 0 -1.8rem #722645 inset; border-bottom: 1px solid #1b0912;}
+.signature .my-name {display: block;}
+.sig-letter {-moz-transform: translateZ(0); display: inline-block; position: relative; bottom: 0; transition: background 0.2s ease-in-out, transform 0.08s ease-in, bottom 0.08s ease-in; border-radius: 1px;}
+.signature a:hover .sig-letter {background: #722645;}
+.signature a:hover .sig-letter:nth-child(4n+1) {transform: rotate(-10deg);}
+.signature a:hover .sig-letter:nth-child(4n+2) {bottom: 0.2rem;}
+.signature a:hover .sig-letter:nth-child(4n+3) {transform: rotate(10deg);}
+.signature a:hover .sig-letter:nth-child(4n+4) {bottom: -0.2rem;}
+.intro {background-image: url(../images/droplets.jpg); background-size: cover; background-position: 50% 30%;}
+.intro-wrapper {background: rgba(64,33,37,0.9); color: #fff; box-shadow: 0 0.4rem #d9554c, 0 0.8rem #c34d44;}
+.intro-content {padding-top: 2.5rem; padding-bottom: 2.5rem; }
+.intro h1 {font-size: 6.4rem; line-height: 1.1; font-weight: bold; text-shadow: .4rem .4rem #220b17; position: relative; left: 0; margin: 0; margin-left: -0.3rem;}
+.intro nav {margin-top: 1.2rem; margin-left: -1.1rem;}
+.intro nav a {color: #d7d5d5; margin-right: 1.5rem; font-size: 1.4rem; text-decoration: none; border-radius: 20px; padding: 0.6rem 1.2rem; display: inline-block;}
+.intro nav a:hover {background: #53373b; color: #fff;}
+.intro nav a:active {transition: none; bottom: 0; right: 0; box-shadow: inset 2px 2px 8px #1b0912, 0px 1px #422c2f; background: #422c2f; color: #d7d5d5;}
+.main-area-content {padding-top: 4.5rem; padding-bottom: 2rem; font-size: 2.2rem;}
+.main-area .content-section {margin-bottom: 4rem;}
+.main-area a {color: #222; background: linear-gradient(to bottom, transparent 0, transparent 83%, #f4ccc9 83%, #f4ccc9 100%); text-decoration: none;}
+.main-area a:hover {color: #c34d44;}
+.main-area p, .main-area ul, .main-area ol {margin-top: 0; margin-bottom: 1.4rem;}
+.main-area ul ul {padding-left: 3rem; margin-bottom: 0;}
+.main-area ul li, .main-area ol li {margin-bottom: 0.5rem; padding-left: 0;}
+.main-area h2 {font-weight: bold; text-transform: uppercase; font-size: 2rem; letter-spacing: 1px; margin-top: 2rem; margin-bottom: 1.2rem;}
+.main-area h3 {margin: 0; font-weight: bold; margin-bottom: 1rem; font-size: 2rem; color: #7f2a4d;}
+.main-area h4 {font-size: 1.8rem; margin-bottom: 1.5rem;}
+.main-area hr {margin: -0.8rem 0 5rem 0; border: none; background: #cf4d6f; height: 5px; max-width: 5rem;}
+.main-area .sub-header {margin-top: 0;}
+.main-area .much-text {padding-top: 1.5rem;}
+.main-area .feature-text {font-size: 2.8rem;}
+.main-area .portrait {position: relative; border-radius: 0.2rem; border: 3px solid #402125; width: 22rem; margin: 1rem 3rem 1.5rem 0; float: left;}
+.main-area .image-group {width: 90%; margin: 5rem auto 6rem;}
+.main-area .image-border {border: 1px solid #ccc;}
+.main-area .image-modal {cursor: zoom-in;}
+.main-area .caption {font-size: 1.3rem; text-align: center; margin-top: 1rem; margin-bottom: 4rem;}
+.main-area .button {display: inline-block; border: 1px solid #c34d44; border-bottom: none; position: relative; text-decoration: none; padding: 1rem 2rem; background: #d9554c; color: #fff; box-shadow: 0 4px #983b35; font-size: 1.6rem; border-radius: 4px; text-shadow: 1px 1px 0 #983b35; margin-right: 1rem;}
+.main-area .button:hover {background: #d9554c; color: #fff; border-color: #c34d44; box-shadow: 0 4px #983b35, 0 7px 10px -5px #422c2f;}
+.main-area .button:active {background: linear-gradient(to bottom right, #c34d44, #d9554c); top: 4px; box-shadow: none;}
+.main-area .button-fat-guy {font-size: 2rem; padding: 2rem; width: 100%; margin: 1.5rem auto; text-align: center;}
+.main-area .button-arrow {margin-left: 1rem;}
+.main-area .button-light {font-size: 1.6rem;}
+.main-area .much-text h2 {margin-top: 3rem;}
+.main-area .much-text h3 {margin-top: 2.2rem;}
+.main-area .lil-snug-guy {margin-top: -0.8rem;}
+.main-area .question {margin-right: 0.4rem;}
+
+/* Footer */
+.footer {background: #220b17; border-top: 1px solid #000; margin-top: auto;}
+.footer a {text-decoration: none; color: #d7d5d5; background: linear-gradient(to bottom, transparent 0, transparent 83%, #d9554c 83%, #d9554c 100%);}
+.footer a:hover {color: #fff;}
+.footer-content {padding-top: 3.5rem; padding-bottom: 3rem; text-align: center; font-size: 1.4rem; color: #d7d5d5;}
+.footer-divider {font-size: 2rem; display: inline-block; animation: spin 30s linear infinite;}
+.footer-divider .fa-globe {color: #146da9;}
+.footer-divider .fa-circle {color: #75bd59;}
+.footer-divider .fa-circle-2 {color: #0c4165; font-size: 105%;}
+.footer .load-time {min-height: 2rem;}
+
+/* Columns */
+.multi-layout {display: flex;}
+.col {width: 50%;}
+.col-1 {padding-right: 1.5rem;}
+.col-2 {padding-left: 1.5rem;}
+
+/* Projects */
+.project {margin: 3rem auto 7.5rem;}
+.project .project-header {margin-bottom: 1.2rem; font-size: 2.2rem;}
+.project .project-brief {font-size: 2rem; margin-bottom: 2.3rem;}
+.title-area {background-color: #d9554c; background-size: cover; background-position: 50%;}
+.title-area-1 {background-image: url(../images/banner-txst-homepage.png);}
+.title-area-2 {background-image: url(../images/banner-txst-template.png);}
+.title-area-3 {background-image: url(../images/banner-txst-brand.png);}
+.title-area-4 {background-image: url(../images/banner-pcf-website.png);}
+.title-area-wrapper {background-color: rgba(217,85,76,0.75);}
+.title-area-content {padding-top: 3.5rem; padding-bottom: 3.5rem;}
+.title-area .portfolio-header {font-size: 2.6rem; margin: 0; color: #fff; text-shadow: 2px 2px 0px #983b35; font-weight: bold; text-transform: uppercase; letter-spacing: 1px;}
+.main-area .tags {margin-top: -2rem; margin-bottom: -2rem;}
+.main-area .tags ul {padding: 0; list-style-type: none;}
+.main-area .tags li {display: inline-block; font-size: 1.3rem; border: 3px solid #f4ccc9; color: #c34d44; padding: 0.4rem 0.75rem; margin-right: 0.2rem; border-radius: 3px;}
+.main-area .project-details {margin-bottom: 4rem;}
+.main-area .portfolio-options {text-align: center;}
+
+/* Accordion */
+.main-area .accordion {border: none; padding: 0; background: none; outline: none; margin-top: -1.5rem; margin-bottom: -1rem;}
+.main-area .panel {padding-top: 1rem; max-height: 0; overflow: hidden; transition: all 0.2s ease-in-out; opacity: 0;}
+.main-area .panel-show {opacity: 1;}
+.main-area .accordion .fa {margin-left: 1rem; font-size: 75%; position: relative; bottom: 0.2rem;}
+.main-area .accordion h3:after {margin-left: 1rem; content: '\002B';}
+.main-area .accordion.active h3:after {content: "\2212";}
+
+/* Contact */
+.main-area .contact-info {margin-left: 4.5rem;}
+.main-area .contact-info li {margin-bottom: 1.5rem;}
+.main-area .contact-info i {margin-top: 0.3rem; color: #d9554c;}
+
+/* Modal */
+[data-balloon].font-awesome:after {font-family: FontAwesome, 'Montserrat', sans-serif; background: #c34d44;}
+[data-balloon].project-image:before {display: none;}
+.featherlight .featherlight-close-icon {line-height: 28px; width: 28px; color: #222; font-size: 2rem; outline: none;}
+.featherlight, .featherlight .featherlight-content {cursor: zoom-out;}
+
+/* Animations */
+@keyframes spin {
+	from {transform: rotate(0deg);}
+	to   {transform: rotate(360deg);}
+}
+
+/* Responsive enhancements */
+@media (min-width: 87.5em) {
+	html {font-size: 68.5%;}
+	.constrain {max-width: 80rem;}
+}
+
+@media (max-width: 35.5em) {
+	html {font-size: 58.5%;}
+	.signature {font-size: 1.3rem; text-align: left;}
+	.signature a {padding-top: 1.1rem;}
+	.intro-wrapper {background: rgba(64,33,37,1);}
+	.intro h1 {font-size: 4.8rem;}
+	.intro nav {margin-left: -0.8rem;}
+	.intro nav a {margin-right: 0.5rem; padding: 0.4rem 0.8rem; font-size: 1.3rem;}
+	.main-area-content {padding-top: 2.8rem;}
+	.main-area ul, .main-area ol {padding-left: 3.5rem;}
+	.main-area .contact-info {margin-left: 2.5rem;}
+	.main-area .portrait {float: none; width: 100%;}
+	.main-area .tags {margin-top: -1rem;}
+	.main-area .image-group {width: 100%;}
+	.main-area .caption {padding: 0 2.5rem;}
+	.multi-layout {display: block;}
+	.col {width: 100%;}
+	.col-1 {padding: 0; margin-bottom: 2rem;}
+	.col-2 {padding: 0;}
+	.footer-content {padding-bottom: 4.5rem;}
+	.footer .view-github {display: block; margin-top: 0.5rem;}
+	.footer-divider {margin-left: 0.8rem;}
+	.footer .fa-stack {width: 2.5rem;}
+}
+
+@media (max-width: 20em) {
+	html {font-size: 48.5%;}
+}
