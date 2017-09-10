@@ -3,7 +3,7 @@ Hi there. I'm Michael Edelstone, a designer working remotely with [Action Verb](
 
 I've been a designer since around 2009. Before that I was a pro bicycle mechanic, and before that I worked in movie theaters and managed an independent video store. I went to the University of Pittsburgh and got a (mostly) useless degree in History.
 
-I'm a minimalist type of person. I have an [older dog named Chloe](https://goo.gl/photos/fPjx3izDvSSz9euR7) who I walk with a lot.
+I'm a minimalist type of person, and I have an [older dog named Chloe](https://goo.gl/photos/fPjx3izDvSSz9euR7) who I walk with a lot.
 
 ## Tools I use
  - **Design:** Chrome DevTools, Photoshop, Balsamiq, InVision
