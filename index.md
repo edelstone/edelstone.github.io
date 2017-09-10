@@ -1,3 +1,5 @@
+# Michael Edelstone
+
 ## Quick bio
 Hi there. I'm Michael Edelstone, a designer working remotely with [Action Verb](http://actionverb.com/), the extremely capable team that makes [BrickFTP](https://brickftp.com). I live in [San Marcos, Texas, USA](https://goo.gl/maps/XV5BuN1iLfM2), which is a neat little college town located between Austin and San Antonio in the Central U.S. time zone.
 
@@ -32,7 +34,3 @@ I'm a minimalist type of person, and I have an [older dog named Chloe](https://g
 Feel free to [contact me](http://michaeledelstone.com/contact) and to ask about anything!
 
 --Michael
-
-<style>
-h1 {display: none;}
-</style>
