@@ -3,7 +3,8 @@ I'm Michael Edelstone, a designer working remotely with [Action Verb](http://act
 
 I've been a designer since around 2009. Before that I was a pro bicycle mechanic, and before that I worked in movie theaters and managed an independent video store. I went to the University of Pittsburgh and got a (mostly) useless degree in History.
 
-I'm a minimalist type of person, and I have an [older dog named Chloe](https://goo.gl/photos/fPjx3izDvSSz9euR7) who I walk with a lot.
+I'm a minimalist type of person, and I have an [older dog named Chloe](https://goo.gl/photos/fPjx3izDvSSz9euR7) who I walk with a lot. I also hang out with [this girl](https://www.instagram.com/cmzinser/) a lot.
+
 
 - **My website:** [michaeledelstone.com](http://michaeledelstone.com)
 - **My GitHub:** [github.com/edelstone](https://github.com/edelstone)
@@ -27,7 +28,6 @@ I'm a minimalist type of person, and I have an [older dog named Chloe](https://g
  - [I watch a lot of movies](http://www.imdb.com/list/ls062779538/?sort=created:desc). I'm not proud of all of them.
  - I lived in Israel for several years.
  - [I visit National Parks often](https://drive.google.com/open?id=18UmsEMmCnD-Nw_pzG3fmYnuURfY&usp=sharing). My favorite (so far) is Sequoia National Park with Great Basin in Nevada as a close second.
- - I hang out with [this girl](https://www.instagram.com/cmzinser/) a lot.
  - I might move to New Mexico sometime soon, or be a nomad for a while.
 
 Feel free to [contact me](http://michaeledelstone.com/contact), and ask about anything!
