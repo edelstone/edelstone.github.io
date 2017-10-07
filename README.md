@@ -10,16 +10,16 @@ I'm a minimalist type of person, and I have an [older dog named Chloe](https://g
 - **My company:** [actionverb.com](https://actionverb.com)
 
 ## Tools I use
- - **Design:** Chrome DevTools, Photoshop, Balsamiq, InVision
+ - **Design:** Chrome DevTools, Photoshop, Sketch, Balsamiq, InVision
  - **Code:** HTML, CSS, Sass, UI frameworks, Git
- - **Learning:** vanilla JavaScript, Framer, React
+ - **Actively learning:** vanilla JavaScript, Framer, React
  - **Productivity:** Things, Evernote, Slack, [Pinboard](https://pinboard.in/u:tsanzer)
  - **Code editor:** Atom
  - **Browser:** Chrome
 
 ## Media I consume
- - **Music:** I listen to music on Google Play with some ambient backgrounds via [A Soft Murmur](http://asoftmurmur.com/) or [Listen to the Clouds](http://listentothe.cloud/). My listening stats for the last eight years are on [Last.fm](http://www.last.fm/user/tsanzer).
- - **Podcasts:** I use the Overcast app; it's not perfect but it's the best I've found for iOS. My favorite shows lately are EconTalk, Unregistered, Intelligence Squared, and The Fifth Column.
+ - **Music:** I listen to music on Google Play with some ambient backgrounds via [A Soft Murmur](http://asoftmurmur.com/) or [Listen to the Clouds](http://listentothe.cloud/). My listening stats are on [Last.fm](http://www.last.fm/user/tsanzer).
+ - **Podcasts:** I use the Overcast app; it's not perfect but it's the best I've found for iOS. My favorite shows lately are EconTalk, Intelligence Squared, and The Fifth Column.
  - **Reading:** I follow a lot of blogs, scan headlines on Google News, and usually check in with The Economist and Smashing Magazine on a regular basis. I avoid social media for the most part.
 
 ## Interesting tidbits
@@ -27,8 +27,9 @@ I'm a minimalist type of person, and I have an [older dog named Chloe](https://g
  - [I watch a lot of movies](http://www.imdb.com/list/ls062779538/?sort=created:desc). I'm not proud of all of them.
  - I lived in Israel for several years.
  - [I visit National Parks often](https://drive.google.com/open?id=18UmsEMmCnD-Nw_pzG3fmYnuURfY&usp=sharing). My favorite (so far) is Sequoia National Park with Great Basin in Nevada as a close second.
+ - I hang out with [this girl](https://www.instagram.com/cmzinser/) a lot.
  - I might move to New Mexico sometime soon, or be a nomad for a while.
 
-Feel free to [contact me](http://michaeledelstone.com/contact) and to ask about anything!
+Feel free to [contact me](http://michaeledelstone.com/contact), and ask about anything!
 
 --Michael
