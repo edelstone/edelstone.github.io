@@ -3,7 +3,7 @@ I'm Michael Edelstone, a designer working remotely with [Action Verb](http://act
 
 I've been a designer since around 2009. Before that I was a pro bicycle mechanic, and before that I worked in movie theaters and managed an independent video store. I went to the University of Pittsburgh and got a (mostly) useless degree in History.
 
-I'm a minimalist type of person, and I have an [older dog named Chloe](https://photos.app.goo.gl/dZmnf8guXIF7MCxw1) who I walk with a lot. I also hang out with [this girl](https://www.instagram.com/cmzinser/) a lot.
+I'm a minimalist type of person, and I have an [older dog named Chloe](https://photos.app.goo.gl/dZmnf8guXIF7MCxw1) who I go on adventures with a lot.
 
 
 - **My website:** [michaeledelstone.com](http://michaeledelstone.com)
@@ -11,8 +11,8 @@ I'm a minimalist type of person, and I have an [older dog named Chloe](https://p
 - **My company:** [actionverb.com](https://actionverb.com)
 
 ## Tools I use
- - **Design:** Chrome DevTools, Photoshop, Sketch, Balsamiq, InVision
- - **Code:** HTML, CSS, Sass, UI frameworks, Git
+ - **Design:** Chrome DevTools, Photoshop, Sketch, Balsamiq, InVision, paper and pencil
+ - **Code:** HTML, CSS, Sass, SVG, UI frameworks, Git, GitHub
  - **Actively learning:** vanilla JavaScript, Framer, React
  - **Productivity:** Things, Evernote, Slack, [Pinboard](https://pinboard.in/u:tsanzer)
  - **Code editor:** Atom
