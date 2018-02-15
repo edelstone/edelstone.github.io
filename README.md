@@ -1,14 +1,12 @@
 ## Hi there
-I'm Michael Edelstone, a designer working remotely with [Action Verb](http://actionverb.com/), the extremely capable team that makes [BrickFTP](https://brickftp.com). I live in [San Marcos, Texas, USA](https://goo.gl/maps/XV5BuN1iLfM2), which is a neat little college town located between Austin and San Antonio in the Central U.S. time zone.
+I'm Michael Edelstone, a designer living and working remotely in [San Marcos, Texas, USA](https://goo.gl/maps/XV5BuN1iLfM2), a neat little college town located between Austin and San Antonio in the Central U.S. time zone.
 
 I've been a designer since around 2009. Before that I was a pro bicycle mechanic, and before that I worked in movie theaters and managed an independent video store. I went to the University of Pittsburgh and got a (mostly) useless degree in History.
 
 I'm a minimalist type of person, and I have an [older dog named Chloe](https://photos.app.goo.gl/dZmnf8guXIF7MCxw1) who I go on adventures with a lot.
 
-
 - **My website:** [michaeledelstone.com](http://michaeledelstone.com)
 - **My GitHub:** [github.com/edelstone](https://github.com/edelstone)
-- **My company:** [actionverb.com](https://actionverb.com)
 
 ## Tools I use
  - **Design:** Chrome DevTools, Photoshop, Sketch, Balsamiq, InVision, paper and pencil
