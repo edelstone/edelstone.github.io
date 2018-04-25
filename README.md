@@ -11,7 +11,7 @@ I'm a minimalist type of person, and I have an [older dog named Chloe](https://p
 ## Tools I use
  - **Design:** Chrome DevTools, Photoshop, Sketch, Balsamiq, InVision, paper and pencil
  - **Code:** HTML, CSS, Sass, SVG, UI frameworks, Git, GitHub
- - **Actively learning:** vanilla JavaScript, Framer, React
+ - **Actively learning:** vanilla JavaScript, Principle, Marvel, React
  - **Productivity:** Things, Evernote, Slack, [Pinboard](https://pinboard.in/u:tsanzer)
  - **Code editor:** Atom
  - **Browser:** Chrome
@@ -23,7 +23,7 @@ I'm a minimalist type of person, and I have an [older dog named Chloe](https://p
 
 ## Interesting tidbits
  - I recently lost 75 pounds.
- - [I watch a lot of movies](http://www.imdb.com/list/ls062779538/?sort=created:desc). I'm not proud of all of them.
+ - [I watch a lot of movies](https://www.imdb.com/list/ls027813782/?sort=date_added,desc&st_dt=&mode=detail&page=1). I'm not proud of all of them.
  - I lived in Israel for several years.
  - [I visit National Parks often](https://drive.google.com/open?id=18UmsEMmCnD-Nw_pzG3fmYnuURfY&usp=sharing). My favorite (so far) is Sequoia National Park with Great Basin in Nevada as a close second.
  - I might move to New Mexico sometime soon, or be a nomad for a while.
