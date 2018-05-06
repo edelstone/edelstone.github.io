@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+body {
+  color: #222;
+}
+
 .project-name {
   font-size: 1px;
   letter-spacing: -1px;
@@ -14,4 +18,8 @@
   visibility: visible;
   font-size: 3rem;
   line-height: 1;
+}
+
+h2 {
+  font-weight: bold;
 }
