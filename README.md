@@ -29,6 +29,8 @@ I'm a minimalist, and I have an [older dog named Chloe](https://photos.app.goo.g
  - I might move to a remote place or somewhere in the countryside in the near future. I like the quiet.
 
 ## Contact me 📱
-Feel free to [contact me](https://michaeledelstone.com/contact) anytime. All the best,
+Reach out and say hi via [your preferred channel](https://michaeledelstone.com/contact) anytime.
 
+<img alt="Michael and dog Chloe" src="https://i.imgur.com/1AmSJph.jpg">
+All the best,<br>
 -Michael
