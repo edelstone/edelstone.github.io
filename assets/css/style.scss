@@ -3,4 +3,15 @@
 
 @import "{{ site.theme }}";
 
-.project-name {display: none;}
+.project-name {
+  font-size: 1px;
+  letter-spacing: -1px;
+  color: transparent;
+}
+
+.project-name:before {
+  content: "Michael Edelstone";
+  visibility: visible;
+  font-size: 3rem;
+  line-height: 1;
+}
