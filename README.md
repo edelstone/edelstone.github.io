@@ -29,7 +29,6 @@ I'm a minimalist, and I have an [older dog named Chloe](https://photos.app.goo.g
  - I might move to New Mexico sometime soon, or be a nomad for a while.
 
 ## Contact me 📱
-Feel free to [contact me](https://michaeledelstone.com/contact) anytime.
+Feel free to [contact me](https://michaeledelstone.com/contact) anytime. All the best,
 
-All the best,
-Michael
+-Michael
