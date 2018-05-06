@@ -15,9 +15,10 @@ body {
 
 .project-name:before {
   content: "Michael Edelstone";
-  visibility: visible;
   font-size: 3rem;
   line-height: 1;
+  letter-spacing: normal;
+  color: #fff;
 }
 
 h2 {
