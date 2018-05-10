@@ -1,5 +1,3 @@
-<link rel="shortcut icon" href="/favicon.ico?ver=2">
-
 ## Hi there 👋
 **I'm Michael Edelstone**, a designer living and working remotely in [San Marcos, Texas, USA](https://goo.gl/maps/XV5BuN1iLfM2), a neat little college town located between Austin and San Antonio in the Central U.S. time zone.
 
