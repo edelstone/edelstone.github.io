@@ -32,6 +32,6 @@ I'm a minimalist, and I have an [older dog named Chloe](https://photos.app.goo.g
 ## Contact me 🤙
 Reach out and say hi via [your preferred channel](https://michaeledelstone.com/contact) anytime.
 
-<img alt="Michael and dog Chloe" src="https://i.imgur.com/1AmSJph.jpg">
+<img alt="Michael and dog Chloe" src="https://i.imgur.com/uXiTJEM.jpg">
 All the best,<br>
 -Michael
