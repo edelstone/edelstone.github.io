@@ -7,6 +7,7 @@ I'm a minimalist, and I have an [older dog named Chloe](https://photos.app.goo.g
 
 - **My website:** [michaeledelstone.com](https://michaeledelstone.com)
 - **GitHub:** [github.com/edelstone](https://github.com/edelstone)
+- **LinkedIn:** [linkedin.com/in/edelstone](https://linkedin.com/in/edelstone)
 
 ## Tools I enjoy 🔧
  - **Design:** Chrome DevTools, Sketch, Zeplin, Balsamiq, InVision, paper and pencil
