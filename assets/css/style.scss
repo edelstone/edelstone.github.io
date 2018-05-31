@@ -3,9 +3,10 @@
 
 @import "{{ site.theme }}";
 
-.container-lg {
+.markdown-body.container-lg {
   max-width: 60rem;
   margin-bottom: 5rem !important;
+  margin-top: -1rem;
   font-size: 175%;
 }
 
@@ -16,10 +17,6 @@
 .markdown-body h2 {
   margin-top: 3rem;
   border-bottom: none;
-
-  &#hi-there- {
-    margin-top: 2rem;
-  }
 }
 
 .markdown-body a {
