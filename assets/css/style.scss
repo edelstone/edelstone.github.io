@@ -19,4 +19,8 @@
 
 .markdown-body a {
   text-decoration: underline;
+
+  &:hover, &:focus {
+    text-decoration: none;
+  }
 }
