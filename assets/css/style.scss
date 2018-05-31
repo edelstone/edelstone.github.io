@@ -4,13 +4,13 @@
 @import "{{ site.theme }}";
 
 body {
-  margin-top: -1rem;
+  margin-top: -1rem !important;
 }
 
 .container-lg {
-  max-width: 60rem;
+  max-width: 55rem;
   margin-bottom: 5rem !important;
-  font-size: 175%;
+  font-size: 150%;
 }
 
 .markdown-body h1 {
