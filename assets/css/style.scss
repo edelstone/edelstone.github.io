@@ -3,10 +3,13 @@
 
 @import "{{ site.theme }}";
 
-.markdown-body.container-lg {
+body {
+  margin-top: -1rem;
+}
+
+.container-lg {
   max-width: 60rem;
   margin-bottom: 5rem !important;
-  margin-top: -1rem;
   font-size: 175%;
 }
 
