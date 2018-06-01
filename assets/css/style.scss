@@ -9,7 +9,7 @@
   font-size: 150%;
 
   @media (max-width: 600px) {
-    margin: 1rem auto 5rem !important;
+    margin-top: 1rem !important;
     font-size: 125%;
   }
 }
@@ -24,4 +24,8 @@
   font-weight: 900;
   font-size: 2.2rem;
   padding-bottom: 0.3rem;
+
+  @media (max-width: 600px) {
+    font-size: 2rem;
+  }
 }
