@@ -7,9 +7,10 @@
   max-width: 55rem;
   margin-bottom: 5rem !important;
   font-size: 150%;
+  padding: 0 1.2rem !important;
 
   @media (max-width: 600px) {
-    margin: 0 auto 3rem !important;
+    margin: 0.5rem auto 3rem !important;
     font-size: 125%;
   }
 }
@@ -27,5 +28,11 @@
 
   @media (max-width: 600px) {
     font-size: 2rem;
+  }
+}
+
+.anchorjs-link {
+  @media (max-width: 600px) {
+    display: none;
   }
 }
