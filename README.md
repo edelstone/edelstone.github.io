@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Michael Edelstone, a designer living and working remotely in [San Marcos, TX, USA](https://goo.gl/maps/RF69xpHXDVu), a neat little college town located between Austin and San Antonio in the Central time zone. I'm originally from Pittsburgh, PA and have also lived in Flagstaff, AZ and Minneapolis, MN.
+I'm Michael Edelstone, a designer living and working remotely in [San Marcos, TX, USA](https://goo.gl/maps/RF69xpHXDVu), a neat little college town located between Austin and San Antonio in the Central U.S. time zone. I'm originally from Pittsburgh, PA and have also lived in Flagstaff, AZ and Minneapolis, MN.
 
 I've been a digital designer [since around 2009](https://github.com/edelstone/my-first-website). Before that I was a pro bicycle mechanic, and before that I worked in movie theaters and managed an independent video store. I went to the University of Pittsburgh and got a degree in history, which taught me how to think critically but hasn't been something I've utilized much otherwise.
 
