@@ -1,18 +1,18 @@
 ## Hi there 👋
-I'm Michael Edelstone, a designer living and working remotely in [San Marcos, TX, USA](https://goo.gl/maps/RF69xpHXDVu), a neat little college town located between Austin and San Antonio in the Central U.S. time zone. I'm originally from Pittsburgh, PA and have also lived in Flagstaff, AZ and Minneapolis, MN.
+I'm Michael Edelstone, a designer living and working remotely in [San Marcos, TX, USA](https://goo.gl/maps/RF69xpHXDVu), a neat little college town between Austin and San Antonio in the Central U.S. time zone. I'm originally from Pittsburgh, PA and have also lived briefly in Flagstaff, AZ and Minneapolis, MN.
 
 I've been a digital designer [since around 2009](https://github.com/edelstone/my-first-website). Before that I was a pro bicycle mechanic, and before that I worked in movie theaters and managed an independent video store. I went to the University of Pittsburgh and got a degree in history, which taught me how to think critically but hasn't been something I've utilized much otherwise.
 
-I'm a minimalist, and I have an [older dog named Chloe](https://photos.app.goo.gl/dZmnf8guXIF7MCxw1) who I go on road trips and hike with a lot. I have a wide variety of interests and love learning, so I'm open to conversations on just about anything. I consider myself an introvert.
+I'm a minimalist, an introvert, and I have an [older dog named Chloe](https://photos.app.goo.gl/dZmnf8guXIF7MCxw1) who I go on road trips and hike with a lot. I have a wide variety of interests and love learning, so I'm open to conversations on just about anything.
 
 - **My website:** [michaeledelstone.com](https://michaeledelstone.com)
 - **GitHub:** [github.com/edelstone](https://github.com/edelstone)
 - **LinkedIn:** [linkedin.com/in/edelstone](https://linkedin.com/in/edelstone)
 
 ## Tools I enjoy 🔧
- - **Design:** Chrome DevTools, Sketch, Zeplin, Balsamiq, InVision, paper and pencil
+ - **Design:** Chrome DevTools, Figma, Sketch, Zeplin, Balsamiq, InVision, paper and pencil
  - **Code:** HTML, CSS, Sass, SVG, Git, GitHub, the occasional UI framework
- - **Actively learning:** vanilla JavaScript, Principle, Figma
+ - **Actively learning:** React, vanilla JavaScript, Framer
  - **Productivity:** Things, Evernote, Slack, [Pinboard](https://pinboard.in/u:tsanzer)
  - **Code editor:** Atom
  - **Browser:** Chrome
