@@ -31,6 +31,15 @@
   }
 }
 
+a {
+  text-decoration: underline;
+
+  &:hover,
+  &:focus {
+    text-decoration: none;
+  }
+}
+
 img {
   margin-bottom: 16px;
 }
