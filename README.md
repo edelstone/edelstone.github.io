@@ -33,6 +33,6 @@ I'm a minimalist, an introvert, and I have an [older dog named Chloe](https://ph
 ## Contact me 🤙
 Reach out and [say hi](https://michaeledelstone.com/contact) anytime.
 
-<img alt="Michael and dog Chloe" src="./me-and-chloe.jpg">
+<img alt="Michael and dog Chloe" src="assets/images/me-and-chloe.jpg">
 All the best,<br>
 -Michael
