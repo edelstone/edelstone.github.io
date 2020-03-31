@@ -18,13 +18,13 @@ I'm a minimalist, an introvert, and I have an [older dog named Chloe](https://ph
  - **Browser:** Chrome
 
 ## Media I consume 📚
- - **Music:** I primarily listen to music on Google Play Music mixed with some ambient backgrounds from [A Soft Murmur](http://asoftmurmur.com/) or [Generative.fm](https://generative.fm/). It's real nice for getting into a flow. My listening stats are on [Last.fm](http://www.last.fm/user/tsanzer).
- - **Podcasts:** I use the Overcast app primarily; it's not perfect but it's the best I've found for iOS. My favorite shows lately are EconTalk, Intelligence Squared, and The Fifth Column.
- - **Reading:** I finish an audio book about once a week; mostly non-fiction stuff. I usually scan headlines on Google or Reddit News, and generally avoid social media, because it's terrible.
- - **TV:** Some of my favorite series (living or dead) are 30 for 30, Eastbound and Down, Futurama, The IT Crowd, Seinfeld, and Community.
+ - **Music:** I primarily listen to music on YouTube Music mixed with some ambient backgrounds from [A Soft Murmur](http://asoftmurmur.com/) or [Generative.fm](https://generative.fm/). It's real nice for getting into a flow. My listening stats are on [Last.fm](http://www.last.fm/user/tsanzer).
+ - **Podcasts:** I use the Overcast app primarily; it's not perfect but it's the best I've found for iOS. My favorite shows lately are EconTalk and The Fifth Column.
+ - **Reading:** I finish an audio book about once a week; mostly non-fiction stuff. I usually scan headlines on Google News or AllSides, and generally avoid social media, because it's terrible.
+ - **TV:** Some of my favorite shows are 30 for 30, Eastbound and Down, Futurama, The IT Crowd, Seinfeld, and Community.
 
 ## Interesting tidbits 🤔
- - I recently lost 75 pounds, and then promptly gained almost all of it back. I plan to lose it all again.
+ - I recently lost 75 pounds, and then promptly gained all of it back. I'm currently plan losing it all again.
  - I watch *a lot* of movies.
  - I lived in Israel for a couple years.
  - [I visit National Parks often](https://drive.google.com/open?id=18UmsEMmCnD-Nw_pzG3fmYnuURfY&usp=sharing). My favorite park (so far) is Sequoia, with Great Basin as a close second.
@@ -33,6 +33,8 @@ I'm a minimalist, an introvert, and I have an [older dog named Chloe](https://ph
 ## Contact me 🤙
 Reach out and [say hi](https://michaeledelstone.com/contact) anytime.
 
-<img alt="Michael and dog Chloe" src="assets/images/me-and-chloe.jpg">
-All the best,<br>
+!["Michael and dog Chloe"](assets/images/me-and-chloe.jpg)
+
+All the best,
+
 -Michael
