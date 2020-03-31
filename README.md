@@ -21,10 +21,10 @@ I'm a minimalist, an introvert, and I have an [older dog named Chloe](https://ph
  - **Music:** I primarily listen to music on YouTube Music mixed with some ambient backgrounds from [A Soft Murmur](http://asoftmurmur.com/) or [Generative.fm](https://generative.fm/). It's real nice for getting into a flow. My listening stats are on [Last.fm](http://www.last.fm/user/tsanzer).
  - **Podcasts:** I use the Overcast app primarily; it's not perfect but it's the best I've found for iOS. My favorite shows lately are EconTalk and The Fifth Column.
  - **Reading:** I finish an audio book about once a week; mostly non-fiction stuff. I usually scan headlines on Google News or AllSides, and generally avoid social media, because it's terrible.
- - **TV:** Some of my favorite shows are 30 for 30, Eastbound and Down, Futurama, The IT Crowd, Seinfeld, and Community.
+ - **TV:** Some of my favorite shows are 30 for 30, Eastbound and Down, The Boys, Futurama, The IT Crowd, and Community.
 
 ## Interesting tidbits 🤔
- - I recently lost 75 pounds, and then promptly gained all of it back. I'm currently plan losing it all again.
+ - I recently lost 75 pounds, and then promptly gained all of it back. I'm currently losing it all again.
  - I watch *a lot* of movies.
  - I lived in Israel for a couple years.
  - [I visit National Parks often](https://drive.google.com/open?id=18UmsEMmCnD-Nw_pzG3fmYnuURfY&usp=sharing). My favorite park (so far) is Sequoia, with Great Basin as a close second.
