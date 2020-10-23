@@ -3,7 +3,7 @@ I'm Michael Edelstone, a designer living and working remotely in [San Marcos, Te
 
 I've been a digital designer [since 2009](https://edelstone.github.io/my-first-website/). Before that I was a pro bicycle mechanic, and before that I managed an independent video store. I went to the University of Pittsburgh and got a degree in history, which taught me how to think critically but hasn't been something I've utilized professionally.
 
-I'm a minimalist, an introvert, and I have a [dog named Chloe](https://photos.app.goo.gl/dZmnf8guXIF7MCxw1) who I travel and hike with a lot. I have a wide variety of interests and enjoy learning, so I'm open to conversations on just about anything.
+I'm a minimalist, an introvert, and I have a [dog named Chloe](https://photos.app.goo.gl/dZmnf8guXIF7MCxw1) who I travel and hike with a lot. I have a wide variety of interests, so I'm open to conversations on just about anything.
 
 - **My website:** [michaeledelstone.com](https://michaeledelstone.com)
 - **GitHub:** [github.com/edelstone](https://github.com/edelstone)
