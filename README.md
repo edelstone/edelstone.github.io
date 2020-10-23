@@ -19,7 +19,7 @@ I'm a minimalist, an introvert, and I have a [dog named Chloe](https://photos.ap
 
 ## Media I consume 📚
  - **Music:** I primarily listen to music on YouTube Music mixed with some ambient backgrounds from [A Soft Murmur](http://asoftmurmur.com/) or [Generative.fm](https://generative.fm/). It's real nice for getting into a flow. My listening stats are on [Last.fm](http://www.last.fm/user/tsanzer).
- - **Podcasts:** I use the Overcast app primarily; it's not perfect but it's the best I've found for iOS. My favorite shows are Science Salon, The Tobolowsky Files, and The Fifth Column.
+ - **Podcasts:** I use the Overcast app. I's not perfect but it's the best I've found for iOS. My favorite shows are Science Salon, The Tobolowsky Files, and The Fifth Column.
  - **Reading:** I finish an audio book about once a month, mostly non-fiction stuff. For current events I usually scan headlines on Google News or AllSides, and generally avoid social media because it's terrible.
  - **TV:** Some of my favorite shows include Eastbound and Down, Todd and the Book of Pure Evil, Futurama, The IT Crowd, Community, and The League of Gentlemen.
 
