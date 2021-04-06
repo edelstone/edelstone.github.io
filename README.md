@@ -10,7 +10,7 @@ I'm a minimalist, an introvert, and I have an older [dog named Chloe](https://ph
 - **LinkedIn:** [linkedin.com/in/edelstone](https://linkedin.com/in/edelstone)
 
 ## Tools I enjoy 🔧
- - **Design:** DevTools, Figma, Sketch, Balsamiq, InVision, paper and pencil
+ - **Design:** DevTools, Figma, Sketch, Balsamiq, InVision, paper and penci
  - **Code:** HTML, CSS, Sass, SVG, Git, GitHub, the occasional UI framework
  - **Productivity:** Things, Slack, Zoom, Airtable
  - **Code editor:** Atom
